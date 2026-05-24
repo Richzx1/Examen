@@ -1,0 +1,41 @@
+id_venta,fecha,ciudad,categoria,producto,cliente,edad,genero,cantidad,precio
+1,2025-01-05,Monterrey,Tecnologia,Laptop Pro,Ana Lopez,23,F,1,18500
+2,05/01/2025,Guadalajara,Hogar,Silla Ejecutiva,Carlos Perez,35,M,2,3200
+3,2025/01/06, CDMX ,TEC,Mouse Gamer,Luis Torres,19,Masculino,3,450
+4,2025-01-07,Puebla,Ropa,Playera Sport,Maria Ruiz,42,Femenino,4,280
+5,07/01/2025,Merida,tecnologia,Tablet Plus,Jose Hernandez,29,m,1,7600
+6,2025-01-08,Monterrey ,Hogar,Escritorio Office,Ana Lopez,23,F,1 pieza,5400
+7,2025-01-08,Guadalajara,Ropa,Tenis Runner,Patricia Gomez,31,F,2,2100
+8,2025/01/09,CDMX,Tecnologia,Smartphone Max,Ricardo Diaz,45,M,1,14200
+9,2025-01-09,Puebla,Hogar,Lampara LED,Laura Castro,27,F,5,380
+10,2025-01-10,Merida,Ropa,Chamarra Urban,Daniel Vega,33,Masculino,1,1900
+11,2025-01-10,Monterrey,Tecnologia,Audifonos Pro,Sofia Martinez,21,F,2 piezas,1250
+12,11/01/2025,Guadalajara,Hogar,Monitor 24,Carlos Perez,35,M,1,4300
+13,2025-01-11,CDMX,Ropa,Gorra Street,Andrea Luna,24,F,3,250
+14,2025-01-12,Puebla,TEC,Teclado RGB,Fernando Silva,38,M,2,980
+15,2025-01-12,Merida,Hogar,Cafetera Smart,Lucia Morales,41,Femenino,1,2500
+16,13/01/2025, Monterrey,Ropa,Sudadera Fit,Miguel Angel,28,m,2,850
+17,2025-01-13,Guadalajara,Tecnologia,Smartwatch X,Paula Jimenez,26,F,1,5200
+18,2025-01-14,CDMX,Hogar,Sofa Minimalista,Raul Ortega,50,M,1,13500
+19,2025-01-14,Puebla,Ropa,Pantalon Casual,Karen Flores,22,F,2,650
+20,2025-01-15,Merida,Tecnologia,Camara Pro,Victor Medina,37,M,,9800
+21,2025-01-15,Monterrey,Hogar,Microondas Plus,Alejandra Cruz,30,F,1,3400
+22,16/01/2025,Guadalajara,Ropa,Vestido Summer,Mariana Rios,27,Femenino,1,1450
+23,2025-01-16,CDMX,Tecnologia,Laptop Air,Roberto Nunez,44,M,1,17200
+24,2025-01-17,Puebla,Hogar,Silla Gamer,Erika Campos,25,F,1,6200
+25,2025-01-17,Merida,Ropa,Playera Basic,Oscar Reyes,18,Masculino,5 piezas,220
+26,2025/01/18,Monterrey,Tecnologia,Disco SSD 1TB,Diego Leon,32,M,2,2100
+27,2025-01-18,Guadalajara,Hogar,Aspiradora Turbo,Patricia Gomez,31,F,1,4100
+28,2025-01-19,CDMX,Ropa,Tenis Urban,Luis Torres,19,m,1,2400
+29,2025-01-19,Puebla,Tecnologia,Monitor Curvo,Fernando Silva,38,M,1,8900
+30,20/01/2025,Merida,Hogar,Refrigerador Eco,Lucia Morales,41,F,1,15600
+31,2025-01-20,Monterrey,Ropa,Gorra Classic,Sofia Martinez,21,F,2,320
+32,2025-01-21,Guadalajara,Tecnologia,Impresora Laser,Paula Jimenez,26,F,1,4700
+33,2025-01-21,CDMX,Hogar,Mesa Comedor,Ricardo Diaz,45,Masculino,1,11200
+34,2025-01-22,Puebla,Ropa,Jeans Slim,Karen Flores,22,F,3,780
+35,2025-01-22,Merida,TEC,Router AX,Victor Medina,37,M,2 piezas,1600
+36,2025-01-23,Monterrey,Hogar,,Ana Lopez,23,F,1,9800
+37,23/01/2025,Guadalajara,Ropa,Blusa Elegance,Mariana Rios,27,F,2,620
+38,2025-01-24,CDMX,Tecnologia,Tablet Mini,Roberto Nunez,44,M,1,6300
+39,2025-01-24,Puebla,Hogar,Freidora Air,Erika Campos,25,,1,2800
+40,2025-01-25,Merida,Ropa,Sudadera Urban,Daniel Vega,33,M,2,980
