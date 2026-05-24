@@ -110,12 +110,16 @@ En comentarios explique:
 
 ---
 
-## Archivos del Proyecto
+## Estructura del Proyecto
 
-| Archivo | Descripcion |
-|---------|-------------|
-| `transformacion_datos.py` | Problema 1 - Transformacion de datos |
-| `agrupamiento_segmentacion.py` | Problema 2 - Agrupamiento y segmentacion |
-| `tablas_resumen.py` | Problema 3 - Tablas de resumen |
-| `tecnicas_busqueda.py` | Problema 4 - Busquedas dinamicas |
-| `indices_pandas.py` | Problema 5 - Indices y seleccion avanzada |
+```
+Examen/
+├── csv/
+│   └── ventas.csv
+└── programs/
+    ├── transformacion_datos.py       # Problema 1
+    ├── agrupamiento_segmentacion.py  # Problema 2
+    ├── tablas_resumen.py             # Problema 3
+    ├── tecnicas_busqueda.py          # Problema 4
+    └── indices_pandas.py             # Problema 5
+```
