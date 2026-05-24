@@ -119,4 +119,3 @@ En comentarios explique:
 | `tablas_resumen.py` | Problema 3 - Tablas de resumen |
 | `tecnicas_busqueda.py` | Problema 4 - Busquedas dinamicas |
 | `indices_pandas.py` | Problema 5 - Indices y seleccion avanzada |
-| `mysql_pandas.py` | Conexion MySQL con Pandas |
